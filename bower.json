@@ -1,0 +1,20 @@
+{
+  "name": "slidinit",
+  "homepage": "https://github.com/lairdhousehold/slidinit",
+  "authors": [
+    "Jammy Laird <jammylaird@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}

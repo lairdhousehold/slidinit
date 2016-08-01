@@ -1,0 +1,5 @@
+.flex-container a:active,
+.flex-slider a:active,
+.flex-container a: focus,
+.flexslider a:focus { outline:none; }
+
